@@ -40,5 +40,5 @@ Parametry wywołania programu:
   
 
 ```
-python main.py -f "images\\foto_1.jpg" -r "nearest"
+python main.py -f "..\images\foto_1.jpg" -r "nearest"
 ```
